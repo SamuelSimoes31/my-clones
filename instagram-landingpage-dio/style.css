@@ -40,8 +40,10 @@ body {
 .instagram-phone img:nth-child(2) {
     position: absolute;
     height: 31.2rem;
+    align-self: center;
     top: 147px;
-    left: 99px;
+    margin-left: -0.3rem;
+
 }
 
 .instagram-continue {
